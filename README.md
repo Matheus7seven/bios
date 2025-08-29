@@ -1,2 +1,2 @@
 # bios
-BIOS personalizada para RX580 com ajustes para melhor estabilidade
+BIOS personalizada para RX580 millse com ajustes para melhor estabilidade
